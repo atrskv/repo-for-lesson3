@@ -1,4 +1,4 @@
-def hi(name):
-    print(name + ', привет!')
+def bye(name):
+    print(name + ', пока!')
 
-hi('Алексей')
+bye('Алексей')
